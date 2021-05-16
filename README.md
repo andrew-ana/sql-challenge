@@ -11,7 +11,7 @@ Andrew Anastasiades | @andrew-ana
 
 ---
 
-Honestly the data engineering was definitely the harder part of this assignment. I used Quick DBD to get my table schemas, then I altered that output to deal with some errors it produced.  
+Honestly the data engineering was definitely the harder part of this assignment. I used Quick DBD to get my table schemas, then I altered that output to deal with some errors it produced... 
 
 ![ERROR!](/Resources/ERRORS.png)  
 
