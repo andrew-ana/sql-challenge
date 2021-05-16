@@ -27,3 +27,14 @@ Finally, I made the queries in like 2 seconds because it is essentially the same
 
 ![Winner](https://github.com/andrew-ana/sql-challenge/blob/main/Resources/winner.gif) 
 
+...  
+...  
+...  
+
+
+Buuutt... I realized I did all the work without making commits, so I spent even more time making this DOPE readme. And now I think I made the repo look like I was responsible...  
+
+![Did I fool anyone?](https://github.com/andrew-ana/sql-challenge/blob/main/Resources/did%20i%20fool%20you.gif)  
+
+
+Thanks for reading, enjoy the code!
