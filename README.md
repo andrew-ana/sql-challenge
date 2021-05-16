@@ -12,4 +12,6 @@ Andrew Anastasiades | @andrew-ana
 ---
 
 Honestly the data engineering was definitely the harder part of this assignment. I used Quick DBD to get my table schemas, then I altered that output to deal with some errors it produced.  
+I used DBeaver to create/manage my database and spent a fair amount of time learning the differences between that application and PGAdmin. (Accidentally deleted a database at one point, then created all sorts of weird **not-database-y** things. What and why is a project?)  
+
 Even when I completed the table, I was unsure that my data relations were properly designated.  
