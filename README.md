@@ -23,5 +23,7 @@ Even when I completed the table, I was unsure that my data relations were proper
 ![SPIDEY](https://github.com/andrew-ana/sql-challenge/blob/main/Resources/spidey.gif)  
 
 
-Finally, I made the queries in like 2 seconds.  
+Finally, I made the queries in like 2 seconds because it is essentially the same thing we do in pandas.  
+
+![Winner](https://github.com/andrew-ana/sql-challenge/blob/main/Resources/winner.gif) 
 
